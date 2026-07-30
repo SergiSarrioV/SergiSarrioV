@@ -91,8 +91,8 @@ Studying **Multiplatform Application Development (CFGS DAM)**, 2023–2026 — p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergiSarrioV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sergi's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiSarrioV&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SergiSarrioV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sergi's GitHub stats" />  
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergiSarrioV&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
